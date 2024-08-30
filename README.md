@@ -6,7 +6,7 @@ This is an app designed for detecting and segmenting upto three types of tumors 
 
 It is powered by a **ResNet-Unet** model custom trained on the *BraTS2020* dataset. For details go [here](#model-description).
 
-The implementation is done using [Streamlit](https://streamlit.io/), providing an interactive interface for tumor detection and segmentation. It is hosted using [Hugging Face Spaces](https://huggingface.co/spaces) [here](https://aryal10-brain-tumor-segmenter.hf.space/).
+The implementation is done using [Streamlit](https://streamlit.io/) and hosted using [Hugging Face Spaces](https://huggingface.co/spaces), providing an interactive interface for tumor detection and segmentation. You can access it [here](https://aryal10-brain-tumor-segmenter.hf.space/).
 
 
 ***
