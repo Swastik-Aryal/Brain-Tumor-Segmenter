@@ -1,0 +1,12 @@
+albumentations
+imageio
+matplotlib
+nibabel
+numpy
+opencv-python-headless
+scikit_learn
+segmentation_models
+skimage
+streamlit
+tensorflow
+tqdm
