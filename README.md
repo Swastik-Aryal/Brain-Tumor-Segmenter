@@ -70,6 +70,8 @@ streamlit run app.py
 
 ## Model Description
 
+For details, visit the [Kaggle Notebook](https://www.kaggle.com/code/ibliss/braintumorsegmentation)
+
 ### 1. Data 
 
 This model was trained using the [BraTS2020](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation) dataset. The dataset contains 368 trainable  patient data directories. Each directory contains multimodal scans  as NIfTI files (.nii) and describe the following volumes
