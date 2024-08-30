@@ -48,11 +48,11 @@ python gifmaker.py --image IMAGE [--mask MASK] [--save_path SAVE_PATH] [--fps FP
 #### 1. Clone the repository and Navigate to the folder
 
 ```sh
-git clone https://github.com/Emo-Sense/EmoSense.git
+git clone https://github.com/Swastik-Aryal/Brain-Tumor-Segmenter.git
 
 ```
 ```sh
-cd EmoSense
+cd Brain-Tumor-Segmenter
 ```
 
 #### 2. Install the requirements
